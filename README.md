@@ -44,14 +44,3 @@ This shows the contact information of the cafe.
 ![Facebook Account]([https://github.com/gauravghongde/social-icons/blob/master/fb.png 'Facebook Account')](https://www.facebook.com/spledrecarze)
 ![Github Account]([https://github.com/gauravghongde/social-icons/blob/master/github.png 'Github Account')] (https://github.com/sci17)
 
-
-
-
-
-
-
-
-
-
-
->>>>>>> 375d1b6b20b4bbb8bf5c9d7de8e103055e866890
