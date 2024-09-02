@@ -1,9 +1,9 @@
 
 # Cozy Cafe
-### Project Description
+## Project Description
 Cozycup Cafe is an online website where customers can browse more about what our cafe can offer to them.
 
-### FEATURES
+## FEATURES
 
 * HOME PAGE - this page shows the picture and the name of the cafe with an option to explore the menu. 
 
@@ -13,34 +13,43 @@ Cozycup Cafe is an online website where customers can browse more about what our
 
 * CONTACT US PAGE - this page is where you can find all of the information about the cafe such as locations, contact number, and social platforms where we promote more about our cafe.
 
-### Screen Captures
+## Screen Captures
 
-![Home Page](images/home.png)
+![Home Page](img/home.jpg)
 This shows the interior of the cafe.
 
-![Menu](images/menu.png)
+![Menu](img/menu.jpg)
 This shows the different kind of pastries and drinks. 
 
-![About Us](images/about.png)
+![About Us](img/about.jpg)
 This shows the information of the owners. 
 
-![Contact](images/contact.png)
+![Contact](img/contact.jpg)
 This shows the contact information of the cafe. 
 
-### About the Authors 
-<img src="rex.png" width="150" style border-radius = "50%">
+## About the Authors 
+<img src="img/rex.jpg" width="150" style border-radius = "50%">
+
 **John Rex Gatchalian**
+
 **Email**: [rexg744@gmail.com](mailto:rexg744@gmail.com)
 
 **Socials**
-![Facebook Account]([https://github.com/gauravghongde/social-icons/blob/master/fb.png 'Facebook Account')](https://www.facebook.com/jOhNreXx.gAtchaLiaN)
-![Github Account]([https://github.com/gauravghongde/social-icons/blob/master/github.png 'Github Account')] (https://github.com/lumberjaxxx)
 
-<img src="speld.png" width="150" style border-radius = "50%">
+[![](img/fb-icon.png)](https://www.facebook.com/jOhNreXx.gAtchaLiaN)
+[![](img/github.jpg)](https://github.com/lumberjaxxx)
+
+
+
+
+<img src="img/speld.jpg" width="150" style border-radius = "50%">
+
 **Spledelyn Cristine Recarze**
+
 **Email** : [recarzespledelyncristine@gmail.com](mailto:recarzespledelyncristine@gmail.com)
 
 **Socials**
-![Facebook Account]([https://github.com/gauravghongde/social-icons/blob/master/fb.png 'Facebook Account')](https://www.facebook.com/spledrecarze)
-![Github Account]([https://github.com/gauravghongde/social-icons/blob/master/github.png 'Github Account')] (https://github.com/sci17)
+
+[![](img/fb-icon.png)](https://www.facebook.com/spledrecarze)
+[![](img/github.jpg)](https://github.com/sci17)
 
